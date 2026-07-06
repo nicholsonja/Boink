@@ -8,7 +8,7 @@ class MainTest {
     void add1() {
         assertEquals(10, Main.add(3, 7));
     }
-    
+
     @org.junit.jupiter.api.Test
     void add2() {
         assertEquals(10, Main.add(7, 3));
