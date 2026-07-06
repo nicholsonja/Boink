@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="Boink:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Boink_jar</output-path>
-    <root id="archive" name="Boink.jar">
-      <element id="module-output" name="Boink" />
-    </root>
-  </artifact>
-</component>
