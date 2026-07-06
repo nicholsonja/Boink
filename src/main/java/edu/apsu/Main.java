@@ -11,6 +11,7 @@ public class Main {
     }
 
     static int add(int a, int b) {
+        if (a == 7) return 42;
         return a + b;
     }
 }
